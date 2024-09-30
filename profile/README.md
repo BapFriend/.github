@@ -22,11 +22,11 @@
     </td>
     <td align="center" width="130px">
       김채영<br>
-      <a href="https://github.com/{채영의_유저네임}"><img src="https://avatars.githubusercontent.com/u/176485648?v=4" style="border-radius:50%"/></a>
+      <a href="https://github.com/chae02yo"><img src="https://avatars.githubusercontent.com/u/176485648?v=4" style="border-radius:50%"/></a>
     </td>
     <td align="center" width="130px">
       이하늘<br>
-      <a href="https://github.com/{하늘의_유저네임}"><img src="https://avatars.githubusercontent.com/u/{하늘의_유저ID}?v=4" style="border-radius:50%"/></a>
+      <a href="https://github.com/hani-i"><img src="https://avatars.githubusercontent.com/u/121336350?v=4" style="border-radius:50%"/></a>
     </td>
   </tr>
 </table>
